@@ -1,16 +1,13 @@
-anjali ***** 
-wormisle@tuta.com
-entrepreneur / thinker / inventor
-
-profile
-im a gifted invenotr of gadgets that allow you to download fleas. 
+anjali ***** <br> wormisle@tuta.com<br>entrepreneur / thinker / inventor
+<br><br>
+profile<br>im a gifted invenotr of gadgets that allow you to download fleas. 
 
 work experience
-* fleas.download
+* fleas.download<br>
 you can literally download fleas on this website i made. you can buy my website for $700
-* poetry
+* poetry<br>
 im also a poet
-* mcdonalds
+* mcdonalds<br>
 i worked at the fucking mcdonalds on *********** road and i was really nice too
 
 education
